@@ -1,7 +1,7 @@
 aBarlowErrorAdder
 ----------------
 
-* Very quick NumPy implementation of R Barlow's method to combine many measurements with asymmetric statistical errorbars
+* Very quick NumPy implementation of R Barlow's method(https://arxiv.org/abs/physics/0406120) to combine many measurements with asymmetric statistical errorbars
 * Implements both the 'linear standard deviation' and 'variance' methods described in the original reference
 * Put the file in your project directory, and use the line 'import BarlowErrorModule' or equivalents to continue
 * BarlowErrorModule.BarlowAsymmErrorAdder() is the function call - it takes the following arguments
@@ -22,7 +22,10 @@ which gives results from a test case.
 
 Any feedback, questions, comments, criticisms are welcome - and appreciated! 
 
-B. Sudarsan
-sbalak2@lsu.edu
-bsudarsan92@gmail.com
+
+---
+B. Sudarsan <br>
+sbalak2@lsu.edu <br>
+bsudarsan92@gmail.com <br>
 LSU Baton Rouge
+---
