@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 # measurement: [value, -err, +err]
 MAXITER = 1e5
